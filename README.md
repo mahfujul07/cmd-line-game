@@ -1,4 +1,4 @@
-# JavaScript Millionaire CLI Tool
+# JavaScript Millionaire Quiz App 
 
 
 ## Take the Quiz

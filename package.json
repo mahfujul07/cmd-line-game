@@ -1,0 +1,24 @@
+{
+  "name": "cmd-line-quiz",
+  "version": "0.0.4",
+  "description": "Who Wants To win this Hackthon and win Millions?",
+  "homepage": "https://mahfujulhuq.me",
+  "type": "module",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/mahfujul07/cmd-line-game"
+  },
+  "main": "index.js",
+  "scripts": {
+    "start": "node ."
+  },
+  "bin": "./index.js",
+  "dependencies": {
+    "chalk": "^4.1.2",
+    "chalk-animation": "^1.6.0",
+    "figlet": "^1.5.2",
+    "gradient-string": "^2.0.0",
+    "inquirer": "^8.2.0",
+    "nanospinner": "^1.0.0"
+  }
+}
