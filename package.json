@@ -1,7 +1,7 @@
 {
   "name": "cmd-line-quiz",
   "version": "0.0.5",
-  "description": "Who Wants To win this Hackthon and win Millions?",
+  "description": "JavaScript Quiz App Command prompt CLI",
   "homepage": "https://mahfujulhuq.me",
   "type": "module",
   "repository": {
