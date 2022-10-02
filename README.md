@@ -1,10 +1,16 @@
-# JavaScript Millionaire Quiz App 
+# JavaScript Quiz App Command prompt CLI
 
 
 ## Take the Quiz
 
 ```
 npx cmd-line-quiz
+```
+
+## Find it in npmjs.com
+
+```
+https://www.npmjs.com/package/cmd-line-quiz
 ```
 
 ## Packages Used
