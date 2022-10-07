@@ -41,7 +41,7 @@ async function handleAnswer(isCorrect) {
       text: `Nice work ${playerName}. That's a correct answer`,
     });
   } else {
-    spinner.error({ text: `Game over, you suck ${playerName}!` });
+    spinner.error({ text: `Game over, you need to practice more ${playerName}!` });
     process.exit(1);
   }
 }
